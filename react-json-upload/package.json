@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@types/node": "^20.11.16",
+    "@types/react": "^18.2.52",
+    "@types/react-dom": "^18.2.18",
+    "axios": "^1.6.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "3.11.0",
+    "react-query": "^3.0.0",
+    "react-scripts": "^5.0.1",
+    "styled-components": "^6.1.8",
+    "typescript": "^4.9.5",
+    "ulid": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start --no-watch"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-query": "^1.2.9",
+    "cross-env": "^7.0.3"
+  }
+}
